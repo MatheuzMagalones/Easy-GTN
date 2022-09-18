@@ -2,11 +2,11 @@
 	"autoSave": true,
 	"autoStart": true,
 	"botID": "694278840855298079",
-	"debugMode": false,
+	"debugMode": true,
 	"defaultRange": 10000,
 	"guessInterval": 1500,
 	"guessIntMaxTimeout": 1000,
 	"prefix": ".",
 	"saveBeforeStop": true,
-	"token": "Here_Goes_Your_Token"
+	"token": "OTY2NzQzNDY1MTc2MjE5Njc4.GI02XH.rp3bKktQMPCj8V7NYECX1iVnzrZC5qAwmpePko"
 }
